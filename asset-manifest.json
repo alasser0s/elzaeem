@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/elzaeem/static/css/main.328aa5f8.css",
+    "main.js": "/elzaeem/static/js/main.44ade8d4.js",
+    "static/js/488.dd005c69.chunk.js": "/elzaeem/static/js/488.dd005c69.chunk.js",
+    "index.html": "/elzaeem/index.html",
+    "main.328aa5f8.css.map": "/elzaeem/static/css/main.328aa5f8.css.map",
+    "main.44ade8d4.js.map": "/elzaeem/static/js/main.44ade8d4.js.map",
+    "488.dd005c69.chunk.js.map": "/elzaeem/static/js/488.dd005c69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.328aa5f8.css",
+    "static/js/main.44ade8d4.js"
+  ]
+}
